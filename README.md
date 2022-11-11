@@ -1,18 +1,13 @@
 ##  [Welcome To TranQuan's Profile](...)
 
 -🧑‍🎓 I am a 3rd year student at FPT University and my major is Information Assurance	.	
-
 -🧐 Ask me about anythings related to cyber security. If I know about what you asked, I will debate with you. If not, I will learn then debate with you.
-
 -🎯 I’m interested in playing CTFs (CTFTime, HackTheBox, TryHackMe, Picoctf).
-
 -💕 I love football and playing computer.
 
 <br></br>
 
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
 
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 ![Kali Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
@@ -39,13 +34,6 @@
   <a href = "https://www.tryhackme.com/p/kuan.beg" target="_blank" rel="noopener noreferrer" align="left">
  <img src="https://tryhackme-badges.s3.amazonaws.com/kuan.beg.png" alt="TryHackMe">
 </a> 
-
-
-
-
-
-
-
 
 
 ## 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
