@@ -1,9 +1,9 @@
 ##  [Welcome To TranQuan's Profile](...)
 
--🧑‍🎓 I am a 3rd year student at FPT University and my major is Information Assurance	.	
--🧐 Ask me about anythings related to cyber security. If I know about what you asked, I will debate with you. If not, I will learn then debate with you.
--🎯 I’m interested in playing CTFs (CTFTime, HackTheBox, TryHackMe, Picoctf).
--💕 I love football and playing computer.
+- 🧑‍🎓 I am a 3rd year student at FPT University and my major is Information Assurance.	
+- 🧐 Ask me about anythings related to cyber security. If I know about what you asked, I will debate with you. If not, I will learn then debate with you.
+- 🎯 I’m interested in playing CTFs (CTFTime, HackTheBox, TryHackMe, Picoctf).
+- 💕 I love football and playing computer.
 
 <br></br>
 
