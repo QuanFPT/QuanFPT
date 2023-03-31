@@ -32,7 +32,9 @@
  <img src="https://www.hackthebox.com/badge/image/1213347" alt="Hack The Box">
 </a>
   <a href = "https://www.tryhackme.com/p/kuan.beg" target="_blank" rel="noopener noreferrer" align="left">
-<img src="https://tryhackme-badges.s3.amazonaws.com/kuan.beg.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1047675"></script>
+
+
 
 </a> 
 
